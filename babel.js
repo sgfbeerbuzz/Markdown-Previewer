@@ -6,4 +6,4 @@ var MarkdownEditor = React.createClass({ getInitialState: function() { return {v
   </div>
   ); } }); 
   ReactDOM.render(
-  <MarkdownEditor />, document.getElementById('markdownEditor'))
+  <MarkdownEditor />, document.getElementById('markdownEditor'));
